@@ -24,3 +24,32 @@ This image showcases the main dashboard of the HR Analytics Dashboard, highlight
 **Attrition by Years at Company** : Line chart showing the attrition rate based on the number of years employees have spent at the company.  
 **Job Role Breakdown** : Table showing the number of employees in each job role and their attrition details.  
 
+## Outcomes
+**Improved Retention Strategies** : Identify key areas of concern regarding employee attrition and develop targeted retention strategies.  
+**Enhanced Workforce Planning** : Analyze demographic data to ensure diversity and balance across the organization.  
+**Operational Efficiency** : Optimize HR processes by understanding attrition patterns and addressing underlying issues.  
+**Data-Driven Decision Making** : Utilize real-time data to make informed decisions about employee management and development.  
+**Increased Employee Satisfaction** : Address the factors contributing to attrition, improving overall employee satisfaction and engagement.  
+
+## Features
+Interactive visualizations  
+Employee attrition metrics  
+Demographic analysis  
+Filtering capabilities  
+
+## Works Done on the Dataset
+**Data Cleaning** :
+Removed duplicates and irrelevant data points.
+Filled or removed missing values to ensure data integrity.
+
+**Data Transformation** :
+Converted data types to appropriate formats (e.g., dates, numeric values).
+Created calculated columns and measures for metrics like total attrition, attrition rate, and average salary.
+
+**Data Aggregation** :
+Summarized data at different levels (e.g., by age group, by education, by job role).
+Created aggregated tables and pivot tables for efficient data retrieval.
+
+**Data Visualization** :
+Developed interactive charts, graphs, and tables to represent data visually.
+Applied filters and slicers for dynamic data exploration.
